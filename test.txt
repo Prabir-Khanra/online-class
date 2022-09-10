@@ -1,0 +1,6 @@
+What is the type?
+test = '      '
+rad0 = '3'
+ra-di = 'value'
+ready = 9
+main = "4.56"
