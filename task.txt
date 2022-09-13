@@ -1,0 +1,21 @@
+#task 1 ===========================================================================
+roll_no = 2
+value = "My roll no. is"
+# outpur: My roll no. is 2
+
+
+
+#task 2 ===========================================================================
+first = 'Zindagi Na'
+value = "Milegi Dobara"
+# outpur: Zindagi Na Milegi Dobara
+
+
+
+#task 3 ===========================================================================
+# Use string formatting for fill the value on (_) position
+quantity = 3
+itemno = 567
+price = 49.95
+target = I want to pay _ dollars for _ pieces of item _
+# I want to pay 49.95 dollars for 3 pieces of item 567
