@@ -19,3 +19,23 @@ itemno = 567
 price = 49.95
 target = I want to pay _ dollars for _ pieces of item _
 # I want to pay 49.95 dollars for 3 pieces of item 567
+
+
+
+
+#task 3 ===========================================================================
+# Use string formatting
+first = 'Dusra mauka'
+second = 'sirf kahaniya deti hai,'
+third = 'zindegi nahi.'
+# Dusra mauka sirf kahaniya deti hai,zindegi nahi.
+
+
+
+#task 4 ===========================================================================
+# Use string formatting for fill the value on (_) position
+quantity = 3
+itemno = 567
+price = 49.95
+target = I want to pay _ dollars for _ pieces of item _
+# I want to pay 49.95 dollars for 3 pieces of item 567
