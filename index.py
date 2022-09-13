@@ -4,7 +4,7 @@
 name = "Amir Khan"
 value = "I like "
 add = value + name
-print(add)
+print(add) 
 
 
 
