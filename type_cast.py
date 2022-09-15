@@ -1,5 +1,6 @@
 # type casting
 
+
 # first
 a = '345.6' # string => float => int
 b = float(a) # converted to float value....answere is 345.6
