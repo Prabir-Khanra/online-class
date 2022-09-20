@@ -21,7 +21,7 @@ c = "ke Hr" in status # True
 #not in =====
 d = "like" not in status # False
 e = "likes" not in status # True
-f = "ke Hr" not in status # False
+f = "ke Hr" not in status # False 
 
 
 

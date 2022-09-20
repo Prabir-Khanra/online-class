@@ -22,7 +22,7 @@ z = 'Sab Moh Maya Hai'
 
 
 # check if 'Pher' -this phrase or character is not present in z =======================================
-b = 'Phir Hera Pheri'
+b = 'Phir Hera Pheri'  
 
 
 

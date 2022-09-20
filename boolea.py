@@ -17,6 +17,7 @@ else:
     print("I am in else part")    
 
 
+
 if 1: # 1 means True
     print("This is True")
 else:
