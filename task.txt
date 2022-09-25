@@ -1,0 +1,14 @@
+from logging import root
+
+
+square root of 625 ?
+
+calculate this problem. 56^4
+
+Which one is the minimum value within 45,56,134,34,0,32
+
+convert to positive number :    -345
+
+show current date like this ....... 2022-9-25
+
+print........Today date is 2022-09-25 17:17:55.814991
