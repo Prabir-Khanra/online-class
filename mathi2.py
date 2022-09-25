@@ -18,6 +18,10 @@ a = math.ceil(1.9) # rounds a number upwards to its nearest integer        # ret
 b = math.floor(1.9) # ounds a number downwards to its nearest integer      # returns 1
 c = math.pi                                                                # returns 3.14
 
+
+
+
+
 print(x)
 print(a)
 print(b)

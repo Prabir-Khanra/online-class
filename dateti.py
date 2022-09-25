@@ -11,6 +11,8 @@ A file containing a set of functions you want to include in your application.
 
 
 
+
+
 # datetime to work with dates as date object
 x = datetime.datetime.now()  #returns current date 
 print(x.year)
@@ -31,9 +33,13 @@ print(y)
 
 
 
+
 # ================== year month day  hour  minute second
 z = datetime.datetime(2022,3,12,20,35,12)
 print(z)
+
+
+
 
 
 

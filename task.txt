@@ -9,6 +9,6 @@ Which one is the minimum value within 45,56,134,34,0,32
 
 convert to positive number :    -345
 
-show current date like this ....... 2022-9-25
+show current date like this ....... 2022-9-25 
 
 print........Today date is 2022-09-25 17:17:55.814991
