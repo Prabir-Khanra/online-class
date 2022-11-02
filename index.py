@@ -1,4 +1,5 @@
-# Creating List
+# ============ Creating List =========================================================
+# ====================================================================================
 #         0        1       2          3    ====================> index no of item in list
 name = ['Gourav','Ankit','Monalisa','Koyel'] # contains 4 items
 list2 = ["abc", 34, True, 40, "male"] # contains 5 items
@@ -10,7 +11,8 @@ print(name)
 
 
 
-# ====== accessing list item 
+# ====== accessing list item =========================================================
+# ====================================================================================
 x = name[1] # accessing seecond item from name list 
 print(x)
 
@@ -18,7 +20,8 @@ print(x)
 
 
 
-# ====== update or change list item 
+# ====== update or change list item =================================================
+# =================================================================================== 
 name[1] = "Hrittik Roshan"  # change second item from name list 
 print(name)
 
@@ -26,7 +29,8 @@ print(name)
 
 
 
-# ====== add list item 
+# ====== add list item ==============================================================
+# ===================================================================================
 #                  0               1              2             3
 super_star = ["Katrina Kaif","Disha Patani","Pooja Hegde","Kriti Sanon"]
 super_star.append("Sradhya Kapoor") # item will be added in the last position
@@ -37,7 +41,8 @@ print(super_star)
 
 
 
-# ====== remove list item 
+# ====== remove list item  =========================================================
+# ==================================================================================
 #                  0               1              2             3
 super_star = ["Katrina Kaif","Disha Patani","Pooja Hegde","Kriti Sanon"]
 super_star.remove("Disha Patani")
@@ -49,11 +54,22 @@ print(super_star)
 
 
 
-# ====== add two lists
+# ====== add two lists ============================================================
+# =================================================================================
 heros = ["Shahrukh Khan","Akshay Kumar","Hrittik Roshan"]
 heroines = ["Katrina Kaif","Disha Patani","Pooja Hegde","Kriti Sanon"]
 heros.extend(heroines) # here we added heroines list to heros list
 print(heros)
 # list2 = heros + heroines
 # print(list2)
+
+
+
+
+# sorting list=====================================================================
+# =================================================================================
+heroines = ["Katrina Kaif","Disha Patani","Pooja Hegde","Kriti Sanon"]
+heroines.sort() # sorting in ascending order
+heroines.sort(reverse=True) # sorting in ascending order
+print(heroines) 
 
